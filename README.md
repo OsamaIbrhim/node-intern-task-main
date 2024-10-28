@@ -18,7 +18,7 @@ Guidelines:
 
 •	Upload the final project to GitHub
 
-•	Deploy the project using Vercel free plan
+•	Deploy the project using Vercel free plan >>>>>>>>>>>  https://node-intern-task-main-virid.vercel.app/auth/jwt/login?returnTo=%2Fdashboard
 
 •	Create a testing account on firebase 
 
